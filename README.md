@@ -1,4 +1,4 @@
-# AI & Machine Learning Projects
+# AI & Python Project
 
 This repository contains a collection of my AI and machine learning projects developed while learning Python and various AI techniques.
 
